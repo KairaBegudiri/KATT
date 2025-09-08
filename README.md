@@ -1,6 +1,7 @@
 # KATT
+A basic attack simulation test tool
 
-## Usage on
+## Installation
 
 ### Linux / MacOS
 ```sh
