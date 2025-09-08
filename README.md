@@ -5,7 +5,7 @@ A basic attack simulation test tool
 
 ### Linux / MacOS
 ```sh
-wget https://github.com/KairaBegudiri/KATT
+git clone https://github.com/KairaBegudiri/KATT
 cd KATT
 pip install -r requirements.txt
 python app.py
