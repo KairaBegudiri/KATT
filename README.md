@@ -1,6 +1,4 @@
 # KATT
-A basic attack simulation test tool
-
 ```ascii
  _  __                     _          _   _   _             _    
 | |/ /__ _ _   _ _ __ __ _( )___     / \ | |_| |_ __ _  ___| | __
@@ -14,6 +12,7 @@ A basic attack simulation test tool
   | |  __/\__ \ |_    | | (_) | (_) | |
   |_|\___||___/\__|   |_|\___/ \___/|_|
 ```
+A basic attack simulation test tool
 
 ## Installation
 
