@@ -29,7 +29,7 @@ python app.py
 # Kayra's Attack Test Tool (KATT) Terms of Service (TOS)
 
 ## 1. Definitions
-- **"Tool" or "KAT"** refers to this software developed by Kayra.  
+- **"Tool" or "KATT"** refers to this software developed by Kayra.  
 - **"User"** refers to the person using the Tool.  
 
 ## 2. Intended Use
